@@ -36,14 +36,14 @@ The intent is to run this exercise in SaturnCloud since there can be some issues
 
 
 ```python
-# Import the german libraries
+# Import the germane libraries
 from transformers import pipeline
 ```
 
 
 ```python
 # __SOLUTION__
-# Import the german libraries
+# Import the germane libraries
 from transformers import pipeline
 ```
 
