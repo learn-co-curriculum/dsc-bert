@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**BERT (Bidrectional Encoder Representation from Transformer)** is a linguistic embedding model published by Google. It is a context-based model, unlike other embedding models such as word2vec, which are context-free. The context-sensitive nature of BERT was built upon a dataset of 3.3 billion words, in particular approximately 2.5 billion from Wikipedia and the balance from Google's [BookCorpus](https://www.english-corpora.org/googlebooks/#).
+**BERT (Bidirectional Encoder Representation from Transformer)** is a linguistic embedding model published by Google. It is a context-based model, unlike other embedding models such as word2vec, which are context-free. The context-sensitive nature of BERT was built upon a dataset of 3.3 billion words, in particular approximately 2.5 billion from Wikipedia and the balance from Google's [BookCorpus](https://www.english-corpora.org/googlebooks/#).
 
 ## Objectives
 
@@ -15,7 +15,7 @@ You will be able to:
 
 ## Some details of the BERT Model
 
-Based on our previous discussion of the transformer, we can see where the terms "encoder representation from transformer" come from. But what about "Bidirectional?" Bidrectional simply mean the encoder can read the sentence in both directions, e.g. both Cogito ergo sum to I think therefore I am and vice versa.
+Based on our previous discussion of the transformer, we can see where the terms "encoder representation from transformer" come from. But what about "Bidirectional?" Bidirectional simply mean the encoder can read the sentence in both directions, e.g. both Cogito ergo sum to I think therefore I am and vice versa.
 
 BERT has three main hyperparameters
 * $L$ is the number of encoder layers
